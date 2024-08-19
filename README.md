@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kshitij Agarwal</h1>
 <h3 align="center">Full Stack Developer | Passionate Coder</h3>
 
-## 💫 About Me:
-
-<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
-
-
 
 ## 💫 About Me:
 
