@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kshitij Agarwal</h1>
 <h3 align="center">Full Stack Developer | Passionate Coder</h3>
 
-<img align="right" alt="coding" width="300" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
-
 ## 💫 About Me:
+
+<img align="right" alt="coding" width="300" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
 
 
 🌱 Full Stack Developer with a passion for building dynamic applications<br>🔧 Experienced in Backend Development<br>📫 How to reach me: kshitija024@gmail.com<br>⚡ Fun fact: I have a knack for turning complex data into compelling stories.
